@@ -44,7 +44,7 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 
 ###
 
-<img src="https://raw.githubusercontent.com/stivenswift/stivenswift/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/StivenSwift/StivenSwift/output/snake.svg" alt="Snake animation" />
 
 ###
 
