@@ -63,7 +63,7 @@ Soy un apasionado del desarrollo web que proviene del mundo del diseño gráfico
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Después de una increíble experiencia como campista en <strong>TalentoTech Bogotá</strong>, estoy emocionado de anunciar que estoy colaborando con mis compañeros <strong>Sol</strong> y <strong>Luis Berdugo</strong> en nuestro proyecto final del Bootcamp de <strong>desarrollo web Full Stack</strong>. Juntos, estamos combinando nuestras habilidades y creatividad para desarrollar algo único. ¡Mantente atento, porque muy pronto compartiremos nuestro trabajo y todo lo que hemos aprendido en este emocionante viaje!</p>
+<p>Después de una increíble experiencia como campista en <strong>TalentoTech Bogotá</strong>, estoy emocionado de anunciar que estoy colaborando con mis compañeros <strong>Sol Mary</strong> y <strong>Luis Berdugo</strong> en nuestro proyecto final del Bootcamp de <strong>desarrollo web Full Stack</strong>. Juntos, estamos combinando nuestras habilidades y creatividad para desarrollar algo único. ¡Mantente atento, porque muy pronto compartiremos nuestro trabajo y todo lo que hemos aprendido en este emocionante viaje!</p>
 </div>
                                                                                       
 </td>
