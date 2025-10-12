@@ -74,3 +74,33 @@ Soy un apasionado del desarrollo web que proviene del mundo del diseño gráfico
 </table>                                                                                 
 </div>
 <br>
+
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Wayggo — Plataforma de Transporte Urbano en Bogotá</h3>
+<div align="center">
+<a href="https://wayggo.com/" target="_blank"><img src="https://raw.githubusercontent.com/StivenSwift/Wayggo_web/master/assets/images/wayggo_img.png" width="400" alt="Talento Tech Bogota"></a>
+<p>
+<a href="https://github.com/StivenSwift/Wayggo_web" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Wayggo es una aplicación web desarrollada como proyecto formativo del SENA en el programa Desarrollo Multimedia y Web (3070484).
+Su propósito es ofrecer una propuesta digital inspirada en plataformas como Uber y Yango, enfocada en mejorar la movilidad urbana en Bogotá.
+Esta primera versión presenta una página informativa con secciones sobre los servicios, valores de la marca y un formulario interactivo de preguntas frecuentes, sirviendo como base para futuras versiones que incluirán registro de usuarios, funcionalidades dinámicas y experiencia interactiva para conductores y pasajeros.</p>
+</div>
+                                                                                      
+</td>
+
+
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
